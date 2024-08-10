@@ -20,9 +20,11 @@ Computer Vision Task to detect and classify images on the CCMT Dataset
 
 ## Results
 
-| ![Train Accuracy](/images/train_Accuracy.jpeg) | ![Validation Accuracy](/images/valid_Accuracy.jpeg) |
-| ![Train Loss](/images/train_Loss.jpeg) | ![Validation Loss](/images/valid_Loss.jpeg) |
+| Training                                         | Validation                                            |
+| ------------------------------------------------ | ----------------------------------------------------- |
+| ![Train Accuracy](/images/train_Accuracy.jpeg)   | ![Validation Accuracy](/images/valid_Accuracy.jpeg)   |
+| ![Train Loss](/images/train_Loss.jpeg)           | ![Validation Loss](/images/valid_Loss.jpeg)           |
 | ![Train Precision](/images/train_Precision.jpeg) | ![Validation Precision](/images/valid_Precision.jpeg) |
-| ![Train Recall](/images/train_Recall.jpeg) | ![Validation Recall](/images/valid_Recall.jpeg) |
+| ![Train Recall](/images/train_Recall.jpeg)       | ![Validation Recall](/images/valid_Recall.jpeg)       |
 | ![Train AUC Score](/images/train_AUC_Score.jpeg) | ![Validation AUC Score](/images/valid_AUC_Score.jpeg) |
-| ![Train F1 Score](/images/train_F1_Score.jpeg) | ![Validation F1 Score](/images/valid_F1_Score.jpeg) |
+| ![Train F1 Score](/images/train_F1_Score.jpeg)   | ![Validation F1 Score](/images/valid_F1_Score.jpeg)   |
